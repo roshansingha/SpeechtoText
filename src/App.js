@@ -16,7 +16,7 @@ function App() {
 
   useEffect(() => {
     handleListen()
-  })
+  }, [isListening])
 
   const handleListen = () => {
     if (isListening) {

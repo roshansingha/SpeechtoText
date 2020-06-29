@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SpeechtoText/static/css/main.f0e463fa.chunk.css",
+    "main.js": "/SpeechtoText/static/js/main.4f346598.chunk.js",
+    "main.js.map": "/SpeechtoText/static/js/main.4f346598.chunk.js.map",
+    "runtime-main.js": "/SpeechtoText/static/js/runtime-main.1345cbd6.js",
+    "runtime-main.js.map": "/SpeechtoText/static/js/runtime-main.1345cbd6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/SpeechtoText/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1af64b43.chunk.js": "/SpeechtoText/static/js/2.1af64b43.chunk.js",
+    "static/js/2.1af64b43.chunk.js.map": "/SpeechtoText/static/js/2.1af64b43.chunk.js.map",
+    "index.html": "/SpeechtoText/index.html",
+    "precache-manifest.ab1b6392c0cfce74eea8c3b8f20a1e68.js": "/SpeechtoText/precache-manifest.ab1b6392c0cfce74eea8c3b8f20a1e68.js",
+    "service-worker.js": "/SpeechtoText/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/SpeechtoText/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f0e463fa.chunk.css.map": "/SpeechtoText/static/css/main.f0e463fa.chunk.css.map",
+    "static/js/2.1af64b43.chunk.js.LICENSE.txt": "/SpeechtoText/static/js/2.1af64b43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1345cbd6.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1af64b43.chunk.js",
+    "static/css/main.f0e463fa.chunk.css",
+    "static/js/main.4f346598.chunk.js"
+  ]
+}
